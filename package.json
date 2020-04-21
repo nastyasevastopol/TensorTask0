@@ -1,0 +1,22 @@
+{
+  "name": "tensortask0-master",
+  "version": "1.0.0",
+  "description": "First repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastyasevastopol/TensorTask0.git"
+  },
+  "author": "Nastya Poltorackaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastyasevastopol/TensorTask0/issues"
+  },
+  "homepage": "https://github.com/nastyasevastopol/TensorTask0#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
